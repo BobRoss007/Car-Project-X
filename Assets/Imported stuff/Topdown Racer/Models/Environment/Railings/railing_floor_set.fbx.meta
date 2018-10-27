@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 59204556968bd754c8c8ede659154708
+timeCreated: 1442005484
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: railing_floor_cornerIn
+    100004: railing_floor_cornerOut
+    100006: railing_floor_endLeft
+    100008: railing_floor_endRight
+    100010: railing_floor_mid_001
+    100012: railing_floor_mid
+    100014: railing_floor_cornerInCOL
+    100016: railing_floor_cornerOutCOL
+    100018: railing_floor_endLeftCOL
+    100020: railing_floor_endRightCOL
+    100022: railing_floor_midCOL
+    400000: //RootNode
+    400002: railing_floor_cornerIn
+    400004: railing_floor_cornerOut
+    400006: railing_floor_endLeft
+    400008: railing_floor_endRight
+    400010: railing_floor_mid_001
+    400012: railing_floor_mid
+    400014: railing_floor_cornerInCOL
+    400016: railing_floor_cornerOutCOL
+    400018: railing_floor_endLeftCOL
+    400020: railing_floor_endRightCOL
+    400022: railing_floor_midCOL
+    2300000: //RootNode
+    2300002: railing_floor_cornerIn
+    2300004: railing_floor_cornerOut
+    2300006: railing_floor_endLeft
+    2300008: railing_floor_endRight
+    2300010: railing_floor_mid_001
+    2300012: railing_floor_mid
+    2300014: railing_floor_cornerInCOL
+    2300016: railing_floor_cornerOutCOL
+    2300018: railing_floor_endLeftCOL
+    2300020: railing_floor_endRightCOL
+    2300022: railing_floor_midCOL
+    3300000: //RootNode
+    3300002: railing_floor_cornerIn
+    3300004: railing_floor_cornerOut
+    3300006: railing_floor_endLeft
+    3300008: railing_floor_endRight
+    3300010: railing_floor_mid_001
+    3300012: railing_floor_mid
+    3300014: railing_floor_cornerInCOL
+    3300016: railing_floor_cornerOutCOL
+    3300018: railing_floor_endLeftCOL
+    3300020: railing_floor_endRightCOL
+    3300022: railing_floor_midCOL
+    4300000: railing_floor
+    4300002: railing_floor_cornerIn
+    4300004: railing_floor_mid_001
+    4300006: railing_floor_cornerOut
+    4300008: railing_floor_endLeft
+    4300010: railing_floor_endRight
+    4300012: railing_floor_mid
+    4300014: railing_floor_cornerInCOL
+    4300016: railing_floor_cornerOutCOL
+    4300018: railing_floor_endLeftCOL
+    4300020: railing_floor_endRightCOL
+    4300022: railing_floor_midCOL
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

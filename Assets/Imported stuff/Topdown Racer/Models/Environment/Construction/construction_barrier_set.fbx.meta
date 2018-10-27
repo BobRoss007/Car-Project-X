@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 89f8b20e2451b4c4a908518429677eb1
+timeCreated: 1442016255
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: construction_barrier_railing_long
+    100002: construction_barrier_railing_longCOL
+    100004: construction_barrier_railing_short
+    100006: construction_barrier_railing_shortCOL
+    100008: //RootNode
+    100010: construction_barrier_warningRailing_long
+    100012: construction_barrier_warningRailing_longCOL
+    100014: construction_barrier_sign
+    100016: construction_barrier_sign_legLeft
+    100018: construction_barrier_sign_legRight
+    100020: construction_barrier_sign_plank1
+    100022: construction_barrier_sign_plank2
+    100024: construction_barrier_sign_plank3
+    100026: construction_barrier_signParent
+    100028: construction_barrier_cone
+    100030: construction_barrier_cone_cap
+    100032: construction_barrier_coneParent
+    100034: construction_barrier_cone_light
+    100036: construction_barrier_cone_lightCOL
+    100038: construction_barrier_block
+    100040: construction_barrier_blockShort
+    100042: construction_barrier_fence2x2
+    100044: construction_barrier_fence4x2
+    100046: construction_barrier_speedBump
+    400000: construction_barrier_railing_long
+    400002: construction_barrier_railing_longCOL
+    400004: construction_barrier_railing_short
+    400006: construction_barrier_railing_shortCOL
+    400008: //RootNode
+    400010: construction_barrier_warningRailing_long
+    400012: construction_barrier_warningRailing_longCOL
+    400014: construction_barrier_sign
+    400016: construction_barrier_sign_legLeft
+    400018: construction_barrier_sign_legRight
+    400020: construction_barrier_sign_plank1
+    400022: construction_barrier_sign_plank2
+    400024: construction_barrier_sign_plank3
+    400026: construction_barrier_signParent
+    400028: construction_barrier_cone
+    400030: construction_barrier_cone_cap
+    400032: construction_barrier_coneParent
+    400034: construction_barrier_cone_light
+    400036: construction_barrier_cone_lightCOL
+    400038: construction_barrier_block
+    400040: construction_barrier_blockShort
+    400042: construction_barrier_fence2x2
+    400044: construction_barrier_fence4x2
+    400046: construction_barrier_speedBump
+    2300000: construction_barrier_railing_long
+    2300002: construction_barrier_railing_longCOL
+    2300004: construction_barrier_railing_short
+    2300006: construction_barrier_railing_shortCOL
+    2300008: construction_barrier_warningRailing_long
+    2300010: construction_barrier_warningRailing_longCOL
+    2300012: construction_barrier_sign
+    2300014: construction_barrier_sign_legLeft
+    2300016: construction_barrier_sign_legRight
+    2300018: construction_barrier_sign_plank1
+    2300020: construction_barrier_sign_plank2
+    2300022: construction_barrier_sign_plank3
+    2300024: construction_barrier_cone
+    2300026: construction_barrier_cone_cap
+    2300028: construction_barrier_cone_light
+    2300030: construction_barrier_cone_lightCOL
+    2300032: construction_barrier_block
+    2300034: construction_barrier_blockShort
+    2300036: construction_barrier_fence2x2
+    2300038: construction_barrier_fence4x2
+    2300040: construction_barrier_speedBump
+    3300000: construction_barrier_railing_long
+    3300002: construction_barrier_railing_longCOL
+    3300004: construction_barrier_railing_short
+    3300006: construction_barrier_railing_shortCOL
+    3300008: construction_barrier_warningRailing_long
+    3300010: construction_barrier_warningRailing_longCOL
+    3300012: construction_barrier_sign
+    3300014: construction_barrier_sign_legLeft
+    3300016: construction_barrier_sign_legRight
+    3300018: construction_barrier_sign_plank1
+    3300020: construction_barrier_sign_plank2
+    3300022: construction_barrier_sign_plank3
+    3300024: construction_barrier_cone
+    3300026: construction_barrier_cone_cap
+    3300028: construction_barrier_cone_light
+    3300030: construction_barrier_cone_lightCOL
+    3300032: construction_barrier_block
+    3300034: construction_barrier_blockShort
+    3300036: construction_barrier_fence2x2
+    3300038: construction_barrier_fence4x2
+    3300040: construction_barrier_speedBump
+    4300000: construction_barrier_railing_long
+    4300002: construction_barrier_railing_longCOL
+    4300004: construction_barrier_railing_short
+    4300006: construction_barrier_railing_shortCOL
+    4300008: construction_barrier_warningRailing_long
+    4300010: construction_barrier_warningRailing_longCOL
+    4300012: construction_barrier_sign_legRight
+    4300014: construction_barrier_sign_plank3
+    4300016: construction_barrier_sign_plank1
+    4300018: construction_barrier_sign_plank2
+    4300020: construction_barrier_sign
+    4300022: construction_barrier_sign_legLeft
+    4300024: construction_barrier_cone_cap
+    4300026: construction_barrier_cone
+    4300028: construction_barrier_cone_light
+    4300030: construction_barrier_cone_lightCOL
+    4300032: construction_barrier_block
+    4300034: construction_barrier_blockShort
+    4300036: construction_barrier_fence2x2
+    4300038: construction_barrier_fence4x2
+    4300040: construction_barrier_speedBump
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
