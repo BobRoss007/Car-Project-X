@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: VehicleChrome
   m_Shader: {fileID: 4800000, guid: 8da90fc6063117745a01feaf69c5d07e, type: 3}
@@ -72,7 +72,7 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Reflectivity: 0.2
+    - _Reflectivity: 0.85
     - _Smoothness: 1.15
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -82,8 +82,8 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _PrimaryColor: {r: 0, g: 0, b: 0, a: 1}
+    - _PrimaryColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _PrimaryMetallic: {r: 0.33, g: 0.33, b: 0.33, a: 1}
-    - _SecondaryColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SecondaryColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _SecondaryMetallic: {r: 0.33, g: 0.33, b: 0.33, a: 1}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 1}

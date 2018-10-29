@@ -73,10 +73,10 @@ Shader "RaptorCat/Car/CarRimBlur" {
 			texUV = mul(texUV.xy, rotationMatrix);
 			float4 noiseTex = tex2D(_NoiseTex, texUV + signAdd);
 
-			float2 sineLerp = saturate((sin(_Time.yyy * 3.14159) + 1) * 0.5);
+			//float2 sineLerp = saturate((sin(_Time.yyy * 3.14159) + 1) * 0.5);
 
 			//float noise = lerp(lerp(noiseTex.r, noiseTex.g, sineLerp.x), noiseTex.b, sineLerp.y);
-			float noise = lerp(0.01, 0.99, noiseTex.r);
+			float noise = lerp(0.1, 1, noiseTex.r);
 			noise = saturate(noise);
 			//noise = pow(noise, 1.5);
 
@@ -158,7 +158,7 @@ Shader "RaptorCat/Car/CarRimBlur" {
 			half3 diffuse = lerp(_FirstColor, lerp(_SecondColor, _ThirdColor, finalMask.g), finalMask.r);
 			half4 specular = lerp(_FirstSpecular, lerp(_SecondSpecular, _ThirdSpecular, finalMask.g), finalMask.r);
 
-			o.Albedo = diffuse.rgb * _Color.rgb * max(IN.vCol.b, _DiffuseOcclusion);
+			o.Albedo = diffuse.rgb * _Color.rgb;// * max(IN.vCol.b, _DiffuseOcclusion);
 
 			o.Specular = specular.rgb;
 			o.Smoothness = specular.a;

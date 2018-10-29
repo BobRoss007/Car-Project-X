@@ -2693,21 +2693,21 @@ MonoBehaviour:
   tStopDamping: 10
   tVelocityDamping: 0.1
   mAcceleration: 2.2
-  mEngineDeceleration: 0.1
+  mEngineDeceleration: 0.5
   mTorqueAmount: 1
   mBiasFront: 0.43
-  mDiffStiffnessFront: 0.5
-  mDiffStiffnessRear: 0.5
+  mDiffStiffnessFront: 0.55
+  mDiffStiffnessRear: 0.6
   mTopSpeedKmh: 90
   mReverseKmh: 45
   mGears: 2
   mShiftTime: 0.09
   mGearUpshiftThreshold: 0.1
   mGearDownshiftThreshold: 0.2
-  bDeceleration: 1.4
+  bDeceleration: 1.8
   bBiasFront: 0.55
   cSteerMax: 30
-  cSteerSpeed: 8
+  cSteerSpeed: 4
   cSteerAngleCounter: 0.1
   cSteerRotateCounter: 0.15
   cSteerAngleDecrease: 1

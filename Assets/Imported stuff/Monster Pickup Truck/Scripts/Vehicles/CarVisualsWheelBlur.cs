@@ -123,6 +123,11 @@ public class CarVisualsWheelBlur : MonoBehaviour {
 				float lrBlur = Mathf.Clamp01(leftRearRotation / maxRotation);
 				float rrBlur = Mathf.Clamp01(rightRearRotation / maxRotation);
 
+				lfBlur = Mathf.Clamp01(lfBlur - 0.25f) / 0.75f;
+				rfBlur = Mathf.Clamp01(rfBlur - 0.25f) / 0.75f;
+				lrBlur = Mathf.Clamp01(lrBlur - 0.25f) / 0.75f;
+				rrBlur = Mathf.Clamp01(rrBlur - 0.25f) / 0.75f;
+
 				matInstances[i].SetVector("_Blur", new Vector4(lfBlur, rfBlur, lrBlur, rrBlur));
 
 				wheelInfo[i].leftFrontPrevRotation = carScript.wheels[wheelInfo[i].leftFront].rotation;
