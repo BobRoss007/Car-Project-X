@@ -2006,7 +2006,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1361078855427944}
   m_LocalRotation: {x: -0, y: -0.9780775, z: -0, w: -0.2082417}
-  m_LocalPosition: {x: -5.64, y: -9.52, z: 63}
+  m_LocalPosition: {x: -6, y: 2, z: 63}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4703088447351626}
@@ -2498,7 +2498,7 @@ MonoBehaviour:
   debugDriftAngle: 0
   debugStopPoints: 0
   debugWeight: 0
-  debugRaycast: 1
+  debugRaycast: 0
   debugCollisions: 0
   debugWheelSpeed: 0
   debugEngineRPM: 0
@@ -2686,7 +2686,7 @@ MonoBehaviour:
   tCamberGrip: 0.1
   tBiasFront: 0.49
   tDriftAbility: 1
-  tPeakAngle: 15
+  tPeakAngle: 10
   tSlipTrail: 0.1
   tStopPositionRadius: 0.05
   tStopSpringRadius: 0.02
@@ -2707,7 +2707,7 @@ MonoBehaviour:
   bDeceleration: 1.8
   bBiasFront: 0.55
   cSteerMax: 30
-  cSteerSpeed: 4
+  cSteerSpeed: 6
   cSteerAngleCounter: 0.1
   cSteerRotateCounter: 0.15
   cSteerAngleDecrease: 1
